@@ -1,0 +1,3 @@
+= Welcome to Docs
+
+Select from the categories in the sidebar to explore our documentation.
